@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fqK7f12k/vkuG6MsOO90wV8dXB0Ls2Kc9fMxhin4+fOcCiMjOuGH5a9Rz1LMqPEvtJtBPYzyChzl8YOiKK37w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ashis\\OneDrive\\Documents\\STUDY\\Interview_Prep\\CQRS_KAFKA_DOCKER\\SM-POST\\Post.query\\Post.Query.Api\\Post.Query.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
